@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key><string>en</string>
+    <key>CFBundleExecutable</key><string>Pangolin</string>
+    <key>CFBundleIconFile</key><string>Pangolin</string>
+    <key>CFBundleIdentifier</key><string>com.kunal.pangolin</string>
+    <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+    <key>CFBundleName</key><string>Pangolin</string>
+    <key>CFBundleDisplayName</key><string>Pangolin</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>15.0</string>
+    <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSHumanReadableCopyright</key><string>Made for Kunal.</string>
+    <key>NSAppleEventsUsageDescription</key><string>Pangolin asks for your password to run system maintenance.</string>
+    <key>NSDesktopFolderUsageDescription</key><string>Pangolin scans your Desktop for leftover installer files.</string>
+    <key>NSDocumentsFolderUsageDescription</key><string>Pangolin scans Documents for project build folders.</string>
+    <key>NSDownloadsFolderUsageDescription</key><string>Pangolin scans Downloads for leftover installer files.</string>
+    <key>NSRemovableVolumesUsageDescription</key><string>Pangolin can analyze external drives you choose.</string>
+</dict>
+</plist>
